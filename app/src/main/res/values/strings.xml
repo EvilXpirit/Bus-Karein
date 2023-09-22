@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bus Karein</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Bus Status</string>
+    <string name="menu_location">Bus Tracking</string>
+    <string name="menu_slideshow">History</string>
+
+
+    <string-array name="BusDate">
+        <item>20 September</item>
+        <item>21 September(Yesterday)</item>
+        <item>22 September(Today)</item>
+        <item>23 September(Tomorrow)</item>
+    </string-array>
+</resources>
